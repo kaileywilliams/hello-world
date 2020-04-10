@@ -1,2 +1,5 @@
 # hello-world
-first timer
+
+First timer here!
+
+Just trying to figure it out. 
